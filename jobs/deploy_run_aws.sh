@@ -235,7 +235,7 @@ all_job_json='{
             ],
             "run_if": "ALL_SUCCESS",
             "notebook_task": {
-                "notebook_path": "/Repos/admin@azurealexandru.onmicrosoft.com/refinery-demo/notebooks/Gold Aggregations",
+                "notebook_path": "/Repos/awsdatabrickstrial081@alexandru.cloud/refinery-demo/notebooks/Gold Aggregations",
                 "base_parameters": {
                     "database": "main.default"
                 },
@@ -259,7 +259,7 @@ all_job_json='{
             ],
             "run_if": "ALL_SUCCESS",
             "notebook_task": {
-                "notebook_path": "/Repos/admin@azurealexandru.onmicrosoft.com/refinery-demo/notebooks/Shares",
+                "notebook_path": "/Repos/awsdatabrickstrial081@alexandru.cloud/refinery-demo/notebooks/Shares",
                 "base_parameters": {
                     "database": "main.default"
                 },
